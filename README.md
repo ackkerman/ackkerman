@@ -1,7 +1,3 @@
-<div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
 <a href="https://github.com/ackkerman">
   <img height=180 align="center" src="https://github-readme-stats-git-main-smileyjoies-projects.vercel.app/api?username=ackkerman&count_private=true&custom_title=Github%20Stats&show_icons=true&theme=catppuccin_latte&hide=contribs" />
 </a>
